@@ -141,7 +141,7 @@ export const editServiceEpic = (action$, state$) =>
         tap((response) => console.log('response post edited', response)),
         map(editServicesSuccess),
         catchError((e) =>
-          of(addServicesFailed(`Произошла ошибка! ${e.name}: ${e.message}`))
+          of(editServicesFailed(`Произошла ошибка! ${e.name}: ${e.message}`))
         )
       )
     )
