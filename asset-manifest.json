@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/ra-hw12-observable-details/static/js/main.902906e1.chunk.js",
+    "main.js.map": "/ra-hw12-observable-details/static/js/main.902906e1.chunk.js.map",
+    "runtime-main.js": "/ra-hw12-observable-details/static/js/runtime-main.38af4159.js",
+    "runtime-main.js.map": "/ra-hw12-observable-details/static/js/runtime-main.38af4159.js.map",
+    "static/css/2.543f1d76.chunk.css": "/ra-hw12-observable-details/static/css/2.543f1d76.chunk.css",
+    "static/js/2.6bc7a586.chunk.js": "/ra-hw12-observable-details/static/js/2.6bc7a586.chunk.js",
+    "static/js/2.6bc7a586.chunk.js.map": "/ra-hw12-observable-details/static/js/2.6bc7a586.chunk.js.map",
+    "index.html": "/ra-hw12-observable-details/index.html",
+    "static/css/2.543f1d76.chunk.css.map": "/ra-hw12-observable-details/static/css/2.543f1d76.chunk.css.map",
+    "static/js/2.6bc7a586.chunk.js.LICENSE.txt": "/ra-hw12-observable-details/static/js/2.6bc7a586.chunk.js.LICENSE.txt",
+    "static/media/mcru-ajax-loader.6f9ac78c.gif": "/ra-hw12-observable-details/static/media/mcru-ajax-loader.6f9ac78c.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38af4159.js",
+    "static/css/2.543f1d76.chunk.css",
+    "static/js/2.6bc7a586.chunk.js",
+    "static/js/main.902906e1.chunk.js"
+  ]
+}
